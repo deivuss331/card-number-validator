@@ -10,6 +10,6 @@
 
 ### Testing Numbers
 
-> Paste your card numbers into `cardNumbers` array in /src/js/validate.js file.
-> Run build command `npm run build`
-> Run index.html from /dist folder
+1. Paste your card numbers into `cardNumbers` array in /src/js/validate.js file.
+2. Run build command `npm run build`
+3. Run index.html from /dist folder
