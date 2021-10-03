@@ -1,4 +1,4 @@
-## Card Number Validator (Luhna Algorithm)
+## Card Number Validator (Luhn Algorithm)
 
 ### Getting started
 
